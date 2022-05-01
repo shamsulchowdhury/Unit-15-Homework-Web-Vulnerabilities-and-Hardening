@@ -145,3 +145,7 @@ Social Engineering >> Fake Notification Bar
 
 Host >> Get Geolocation (Third Party)
 ![](images/get-geolocation-thirdparty.PNG)
+
+#### Recommended mitigation strategies
+
+Input validation is a common method used to mitigate cross-site scripting.
